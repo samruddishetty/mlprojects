@@ -1,0 +1,5 @@
+[2024-10-26 20:18:41,377] 27 root - ERROR - ERROR OCCURED IN THE PYTHON SCRIPT NAME [src/exception.py] LINE NUMBER [24] ERROR MESSAGE [division by zero]
+Traceback (most recent call last):
+  File "src/exception.py", line 24, in <module>
+    a = 1 / 0
+ZeroDivisionError: division by zero
