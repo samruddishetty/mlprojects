@@ -1,6 +1,6 @@
 # exception.py
 import sys
-from logger import logging  # Import the logging setup
+from .logger import logging  # Import the logging setup
 
 # Error message detail function
 def error_message_detail(error, error_detail: sys):
